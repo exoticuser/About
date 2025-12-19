@@ -29,21 +29,6 @@ I'm a passionate developer and cybersecurity enthusiast who loves to explore the
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🔧 Specializations
-
-</div>
-
-```ascii
-╔═══════════════════════════════════════════════════════╗
-║  🕷️  Web Scraping        ║  🐍  Python              ║
-║  📜  JavaScript          ║  🟢  Node.js             ║
-║  🌐  Networking          ║  🤖  Telegram Bots       ║
-║  🔐  Cybersecurity       ║  📚  Always Learning     ║
-╚═══════════════════════════════════════════════════════╝
-```
-
----
-
 ## 🎯 What I Do
 
 <details open>
@@ -82,41 +67,6 @@ Developing intelligent and interactive bots for Telegram platform.
 Currently diving deep into security concepts, penetration testing, and secure coding practices.
 </details>
 
----
-
-## 📊 Tech Stack Overview
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((exoticuser))
-    Web Scraping
-      Python Libraries
-      Data Extraction
-      Automation
-    Programming
-      Python
-      JavaScript
-      Node.js
-    Security
-      Cybersecurity
-      Learning & Growing
-      Best Practices
-    Bots & Automation
-      Telegram Bots
-      API Integration
-      User Interaction
-    Networking
-      Protocols
-      Infrastructure
-      Communication
-```
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -143,39 +93,6 @@ mindmap
 ![](https://komarev.com/ghpvc/?username=exoticuser&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
----
-
-## 🔥 Passion & Interests
-
-```python
-class ExoticUser:
-    def __init__(self):
-        self.username = "exoticuser"
-        self.skills = [
-            "Web Scraping",
-            "Python",
-            "JavaScript",
-            "Node.js",
-            "Networking",
-            "Telegram Bots"
-        ]
-        self.learning = ["Cybersecurity"]
-        self.interests = [
-            "Automation",
-            "Security",
-            "Bot Development",
-            "Data Extraction"
-        ]
-    
-    def say_hi(self):
-        print("👋 Hello! Let's build something amazing together!")
-
-me = ExoticUser()
-me.say_hi()
-```
-
----
 
 ## 📫 Let's Connect!
 
