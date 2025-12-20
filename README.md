@@ -100,7 +100,7 @@ Currently diving deep into security concepts, penetration testing, and secure co
 
 **Feel free to reach out for collaborations, questions, or just to say hi!** 👋
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exoticuser)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/exoticxuser)
 
 ---
 
